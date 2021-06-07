@@ -1,0 +1,1 @@
+open('G: \ anuma.txt','r')
